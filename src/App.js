@@ -6,7 +6,7 @@ function App() {
 	return (
 		<div className="App">
 			<header className="App-header">
-				React-Mongo App
+				React-Mongo App2
       </header>
 		</div>
 	);
